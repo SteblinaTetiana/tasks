@@ -9,6 +9,6 @@ fun main() {
         }else{
             b = b%a
         }
-        println(a+b)
     }
+    println(a+b)
 }
